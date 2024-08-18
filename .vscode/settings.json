@@ -1,0 +1,6 @@
+{
+  "slidev.force-enabled": true,
+  "pasteImage.path": "${currentFileDir}/public",
+  "pasteImage.insertPattern": "<img src=\"${imageFilePath}\" />",
+  "yarn.bin": "volta which yarn",
+}
